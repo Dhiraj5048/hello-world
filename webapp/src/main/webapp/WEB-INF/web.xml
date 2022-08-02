@@ -6,6 +6,7 @@
   <display-name>Webapp</display-name>
   <!--
   <servlet>
+<servlet-name>Test for unit</servlet-name>
   <servlet-name>HelloWorldExample</servlet-name>
   <servlet-class>com.example.HelloWorldExample</servlet-class>
   </servlet>
